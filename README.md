@@ -1,4 +1,4 @@
-# CPSC350- Assignment-6-Sorting
+Sorting Algorithm Project
 
 Areeba Aftab
 aftab@chapman.edu
@@ -8,14 +8,6 @@ aftab@chapman.edu
 
 
 
-Sources:
-Professor's lectures and psuedo codes
-Youtube videos
-My friend helped me a bit with this project as well.
-
-
-Source Files:
-main.cpp
 
 
 
